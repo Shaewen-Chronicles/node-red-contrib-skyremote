@@ -36,7 +36,7 @@ module.exports = function(RED) {
             return this;
         }
 
-        var remoteControl = new SkyRemote(this.server.host, this.server.port);
+        var remoteControl = new SkyRemote(this.server.host, SkyRemote.SKY_Q_LEGACY);
 
         if (!remoteControl) {
             this.status({ fill: "yellow", shape: "dot", text: "an error occurred" });

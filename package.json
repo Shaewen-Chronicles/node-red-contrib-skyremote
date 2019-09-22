@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-skyremote-new",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This node-red node allows you to remotely control a Sky satellite box. The node mimics the Sky Box functionality of the Sky Remote Control",
   "main": "SkyRemote.js",
   "engines": {
@@ -35,7 +35,7 @@
   "author": "Mark Setrem edits by Christian Lerch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ukmoose/node-red-contrib-skyremote/issues"
+    "url": "https://github.com/Shaewen-Chronicles/node-red-contrib-skyremote-new/issues"
   },
-  "homepage": "https://github.com/ukmoose/node-red-contrib-skyremote#readme"
+  "homepage": "https://github.com/Shaewen-Chronicles/node-red-contrib-skyremote-new#readme"
 }
