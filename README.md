@@ -15,7 +15,7 @@ npm install node-red-contrib-skyremote
 ## Usage
 A node to control a Sky satellite box. The node mimics the Sky Box functionality of the Sky Remote.  The purpose of writing the node was to allow other nodes such as homekit, alexa and dashboard to control the status of the Sky Box
 
-Works with Sky+HD and SkyQ. 
+Works with SkyQ. 
 
 The node can accept the commands listed below: 
 
@@ -35,12 +35,12 @@ The node can accept the commands listed below:
 
 ## Tested devices
 
-Tested with a UK Sky+HD box, the underlying npm library supports SkyQ but I haven't got one to test.
+Tested with a DE Sky Q box, the underlying npm library supports Sky+HD but I haven't got one to test.
 
 Tried on another device??? Let me know ;)
 
 ## History
-
+- 0.1.1 - February 2020 : Changed to SkyQ and reuploaded to NPM becouse Original Version was gone
 - 0.0.8 - March 2017 : Adding node-red keyword removing console.log outputs
 - 0.0.7 - March 2017 : Getting npm submission correct
 - 0.0.4 - March 2017 : Preparing for npm submission
