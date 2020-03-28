@@ -1,4 +1,4 @@
-# node-red-contrib-skyremote
+# node-red-contrib-skyremote-new
 A [Node-RED](http://nodered.org) node to control a Sky satellite box. The node mimics the functionality of a Sky Remote
 
 ## Install
@@ -9,7 +9,7 @@ Use the Manage Palette > Install option from the menu inside node-red
 #### Harder
 Alternatively in your Node-RED user directory, typically ~/.node-red, run
 ```bash
-npm install node-red-contrib-skyremote
+npm install node-red-contrib-skyremote-new
 ```
 
 ## Usage
