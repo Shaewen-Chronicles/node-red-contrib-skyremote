@@ -48,7 +48,12 @@ Tried on another device??? Let me know ;)
 - 0.0.1 - March 2017 : Initial Release
 
 ## Authors
-* Mark Setrem (https://github.com/ukmoose)
+
+
+
+* Christian Lerch (https://github.com/Shaewen-Chronicles) All Changes past 0.0.8
+* Mark Setrem (https://github.com/ukmoose) Original Version
+
 
 ## Credits
 
